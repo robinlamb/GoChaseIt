@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<!-- File to store materials for robot-->
+<robot>
+
+  <material name="black">
+     <color rgba="0.0 0.0 0.0 1.0" />
+  </material>
+
+  <material name="purple">
+     <color rgba="0.6 0 0.6 1" />
+  </material>
+
+  <material name="yellow">
+     <color rgba="0.3, 0.3, 0, 1" />
+  </material>
+
+
+</robot>
