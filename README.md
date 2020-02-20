@@ -1,6 +1,6 @@
-# GoChaseIt
+# Go Chase It
 
- https://youtu.be/Fu-AxAy8Y5g
+ https://www.youtube.com/watch?v=Fu-AxAy8Y5g&feature=youtu.be
 
 This project is a simulation in Gazebo and RViz is which the robot follows a white colored object.  The robot model is made using URDF.  There are two C++ ROS nodes.  
 
